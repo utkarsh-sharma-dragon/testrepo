@@ -48,8 +48,8 @@ jobs:
       - checkout
       - run: 
           name: "Setup custom environment variables utk"
-          command: |
-	    echo 'export LANG="en_US.UTF-8"' >> $BASH_ENV
+	  command: |
+            echo 'export LANG="en_US.UTF-8"' >> $BASH_ENV
 	    echo 'export LANGUAGE="en_US.UTF-8"' >> $BASH_ENV
 	    echo 'export LC_ALL="en_US.UTF-8"' >> $BASH_ENV
       - run: bundle install
