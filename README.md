@@ -1,4 +1,4 @@
-# ios-game
+## ios-game
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ios/tree/master.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ios/tree/master)
 
